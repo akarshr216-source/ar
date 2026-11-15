@@ -1,0 +1,10 @@
+{
+  "name": "Remix ARC LUNA — LUNASIGHT",
+  "description": "Advanced lunar landing site navigation, NASA LOLA terrain intelligence, solar illumination prediction, and mission simulation platform grounded in official NASA datasets.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
